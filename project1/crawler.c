@@ -127,8 +127,6 @@ if (pNode == NULL) {
   return contains(pNode->next, addr);
 }
 
-    
-
 /*
  * inserts the address addr as a new listNode at the end of
  *    the list
