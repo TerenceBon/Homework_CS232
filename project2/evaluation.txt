@@ -1,0 +1,3 @@
+I worked on the main method, freeTrieMemory method, and the parameters
+my partner coded on the indexPage, addWordOccurrence, and printTrieContents
+I think i roughly worked for maybe 8 hours coding, debugging, and researching.
